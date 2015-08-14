@@ -8,7 +8,8 @@ This is an example for my own practice to learn different parts of the Git repos
 
 ## Purpose
 
-As stated above, the main purpose here is to practice Git training demos using simple example text based files. So now I am just adding another line of text for the rebasing example. Then now adding more changes from the myfeature branch after rebase.
+As stated above, the main purpose here is to practice Git training demos using simple example text based files. 
+So now I am modifying this file for purposes of the stash tutorial.
 
 ## Deployment
 
