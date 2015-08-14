@@ -21,4 +21,4 @@ Please fork this repository and them issue Pull Requests for review.
 
 ###Copyright
 
-2015 AcequiaPub
+2015 AcequiaPub, All Rights Reserved
